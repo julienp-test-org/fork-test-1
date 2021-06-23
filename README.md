@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
-CHANGE
+CHANGE 2
 
 <p align="center">
   <a href="https://www.gatsbyjs.com">
